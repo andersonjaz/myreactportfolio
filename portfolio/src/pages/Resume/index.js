@@ -1,6 +1,5 @@
 import React, {useState} from 'react';
 import { sections, skills, education, experience } from '../../assets/resume-info';
-import leafImg from '../../assets/images/leaf-beige.png';
 
 function Resume({ title }) {
     const [skillCollapse, setSkillCollapse] = useState('none');
@@ -26,7 +25,6 @@ function Resume({ title }) {
                 <div className="content">
                     <p className="download">
                         This resume was last updated April 2022.<br />
-                        <a href="https://colecodes.com/ResumeDecember2020.pdf" target="_blank"  rel="noreferrer">Download my resume!</a>
                     </p>
                     <h4 id="skills">Skills</h4>
                     {skills.map(skl => (

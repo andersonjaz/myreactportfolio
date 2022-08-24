@@ -195,7 +195,7 @@ p.about-text {
 .self-image::after {
   content: "";
   display: block;
-  background-image: url("assets/images/leaf-blue.png");
+  /* background-image: url("assets/images/leaf-blue.png"); */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -208,7 +208,7 @@ p.about-text {
 p.about-text::before {
   content: "";
   display: block;
-  background-image: url("assets/images/leaf-beige.png");
+  /* background-image: url("assets/images/leaf-beige.png"); */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
