@@ -30,7 +30,7 @@ function Header({ pages }) {
             {/* Site Title */}
             <div className="title">
                 <h1>{window.location.pathname === "/" ?
-                    "Cole Codes" :
+                    "Laura's Portfolio" :
                     <NavLink to="/">Laura Jazmin Anderson</NavLink>}
                 </h1>
                 <h2>

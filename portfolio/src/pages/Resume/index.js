@@ -61,7 +61,7 @@ function Resume({ title }) {
                         </div>
                     ))}
 
-                    <img src={leafImg} className="leaf" alt="" />
+                    {/* <img src={leafImg} className="leaf" alt="" /> */}
 
                     <h4 id="education">Education</h4>
                     {education.map(({ years, school, certification, description }) => (
@@ -73,7 +73,7 @@ function Resume({ title }) {
                         </div>
                     ))}
 
-                    <img src={leafImg} className="leaf" alt="" />
+                    {/* <img src={leafImg} className="leaf" alt="" /> */}
 
                     <h4 id="experience">Experience</h4>
                     {experience.map(({ years, role, description, notes }) => (

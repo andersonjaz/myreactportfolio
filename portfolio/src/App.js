@@ -13,7 +13,7 @@ import { projectInfo } from './assets/project-info';
 
 function Template() {
   const pages = [
-    { path: '/', title: 'About', Element: About },
+    { path: '/about', title: 'About', Element: About },
     { path: '/portfolio', title: 'Portfolio', Element: Portfolio },
     { path: '/contact', title: 'Contact', Element: Contact },
     { path: '/resume', title: 'Resume', Element: Resume }
