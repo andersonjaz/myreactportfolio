@@ -5,7 +5,7 @@ function About() {
     const quickInfo = [
         { title: "Certificate", subtitle: "Full Stack Web Development" },
         { title: "San Diego", subtitle: "Based in California" },
-        { title: "Experience", subtitle: "Front and Back End Development and Marketing!"},
+        { title: "Experience", subtitle: "Front/Back End Development and Marketing"},
     ];
     const quickSkills = ["Git", "HTML + CSS", "JavaScript + jQuery", "Node.js", "Marketing", "...And More!"];
     return(
