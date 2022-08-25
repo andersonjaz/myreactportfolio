@@ -31,7 +31,7 @@ function Header({ pages }) {
             <div className="title">
                 <h1>{window.location.pathname === "/" ?
                     "Laura's Portfolio" :
-                    <NavLink to="/">Laura Jazmin Anderson</NavLink>}
+                    <NavLink to="/">Laura's Portfolio</NavLink>}
                 </h1>
                 <h2>
                     <Typewriter 
@@ -40,7 +40,7 @@ function Header({ pages }) {
                             loop: true
                         }}
                         onInit={(typewriter) => {
-                            typewriter.typeString('Laura Anderson')
+                            typewriter.typeString('Laura Jazmin Anderson')
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .typeString('Web Developer')

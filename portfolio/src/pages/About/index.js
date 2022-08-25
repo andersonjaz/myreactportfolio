@@ -22,12 +22,12 @@ function About() {
                 ))}
             </div>
             <div className="main-content">
-                <h3>My name is Jazmin Anderson and</h3>
+                <h3>My name is Jazmin Anderson</h3>
                 <p>
                     I am a San Diego-based independent web developer. All of my final coding is mobile responsive. I also have over 3 years experience in Marketing. I really enjoy combining the technical aspects of coding with the artistic aspects of Marketing. I'm highly adaptable to what needs to be done and can quickly learn anything that needs to be learned for a job.
                 </p>
                 <p>
-                    I am currently working at Hanabusa IVF as a Marketing Coordinator, and ready to jumpstart my career in the tech field.
+                    I am currently working at Hanabusa IVF as a Marketing Coordinator, and ready to jumpstart my career in the tech field. I am an amazing team player and ready to become and important asset to your company.
                 </p>
                 <ul className="quick-skills">
                     {quickSkills.map(skill => (
@@ -37,7 +37,7 @@ function About() {
             </div>
             <div className="quick-info">
                 <p className="about-text">
-                    I am an amazing team player and ready to become and important asset to your company.
+                    Check out more on my resume tab.
                 </p>
             </div>
         </section>

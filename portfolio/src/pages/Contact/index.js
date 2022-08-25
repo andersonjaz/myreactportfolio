@@ -72,7 +72,7 @@ function Contact({ title }) {
                     <li key={icon}><a href={url} target="_blank" rel="noreferrer"><i className={`fa-brands ${icon}`}></i> {title}</a></li>
                 ))}
             </ul>
-            <p>Above are some of my social media contacts, however, the best way to contact me is via email! You can send me a message through the form below. If things aren't working, you can send me an email directly at <a href="mailto:jazminandersonxo@gmail.com">jazminandersonxo@gmail.com</a>.</p>
+            <p>Above are some of my social page contacts, however, the best way to contact me is via email. You can send me a message through the form below. If things aren't working, you can send me an email directly at <a href="mailto:jazminandersonxo@gmail.com">jazminandersonxo@gmail.com</a>.</p>
             <form id="contact-form" className="contact-form" encType="multipart/form-data" onSubmit={handleSubmit}>
                 <label htmlFor="name">Name: <span className="required">*</span></label>
                 <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
