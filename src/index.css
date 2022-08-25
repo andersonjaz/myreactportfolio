@@ -1,8 +1,8 @@
 :root {
   --main-color: #2f94bf;
-  --second-color: #7d49ef;
-  --third-color: #6F8579;
-  --main-darker: #3f3f3f;
+  --second-color: #49e9ef;
+  --third-color: #6ebc91;
+  --main-darker: #696868;
   --second-lighter: #f1f2eb;
   --lightest-color: #fff;
   --darkest-color: #191e22;
@@ -233,7 +233,7 @@ p.about-text::before {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 20px 0;
+  border-radius: 0px 0;
   font-weight: bold;
 }
 .quick-skills li:nth-child(3n - 1) {
@@ -245,7 +245,7 @@ p.about-text::before {
   text-shadow: 1px 1px rgba(255,255,255,.5);
 }
 .quick-skills li:hover {
-  border-radius: 0 20px;
+  border-radius: 20px 20px;
 }
 
 

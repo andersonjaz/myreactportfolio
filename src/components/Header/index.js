@@ -30,8 +30,8 @@ function Header({ pages }) {
             {/* Site Title */}
             <div className="title">
                 <h1>{window.location.pathname === "/" ?
-                    "Laura's Portfolio" :
-                    <NavLink to="/">Laura's Portfolio</NavLink>}
+                    "My Portfolio" :
+                    <NavLink to="/">Welcome To My Portfolio</NavLink>}
                 </h1>
                 <h2>
                     <Typewriter 
@@ -40,10 +40,10 @@ function Header({ pages }) {
                             loop: true
                         }}
                         onInit={(typewriter) => {
-                            typewriter.typeString('Laura Jazmin Anderson')
+                            typewriter.typeString('Web Developer')
                                 .pauseFor(3000)
                                 .deleteAll()
-                                .typeString('Web Developer')
+                                .typeString('Laura Anderson')
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .start();

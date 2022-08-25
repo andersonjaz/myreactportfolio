@@ -22,7 +22,7 @@ function About() {
                 ))}
             </div>
             <div className="main-content">
-                <h3>My name is Jazmin Anderson</h3>
+                <h3>My name is Laura Jazmin Anderson</h3>
                 <p>
                     I am a San Diego-based independent web developer. All of my final coding is mobile responsive. I also have over 3 years experience in Marketing. I really enjoy combining the technical aspects of coding with the artistic aspects of Marketing. I'm highly adaptable to what needs to be done and can quickly learn anything that needs to be learned for a job.
                 </p>
