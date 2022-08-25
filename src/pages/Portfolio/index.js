@@ -1,15 +1,3 @@
 import React from 'react';
-import Project from '../../components/Project';
+import Images from './assets/images/portfolio'
 
-function Portfolio({ projects, title }) {
-    return(
-        <section className="portfolio-boxes">
-            <h3>{title}</h3>
-            {projects.map(project => (
-                <Project project={project} key={project.title} />
-            ))}
-        </section>
-    );
-}
-
-export default Portfolio;

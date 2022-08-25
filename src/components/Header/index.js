@@ -31,7 +31,7 @@ function Header({ pages }) {
             <div className="title">
                 <h1>{window.location.pathname === "/" ?
                     "My Portfolio" :
-                    <NavLink to="/">Welcome To My Portfolio</NavLink>}
+                    <NavLink to="myreactportfolio/">Welcome To My Portfolio</NavLink>}
                 </h1>
                 <h2>
                     <Typewriter 
