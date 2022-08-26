@@ -1,13 +1,35 @@
-# My React Portfolio 
+# My-Portfolio
 
-This portfolio was created using, css, react.js, javascript, and html. Please keep checking back for updates.
+Welcome to my portfolio. Please keep checking back for updates.
 
-## Deployed Site
-https://andersonjaz.github.io/myreactportfolio/
+## Table of Contents
 
-## Portfolio Screenshot
+<details>
 
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/91381863/186790772-2551183c-f355-4847-bb42-0960333e3835.png">
+  <summary>Contents</summary>
+  
+1.  [Description](#description)
+
+1.  [Website](#website)
+
+1.  [Built With](#built-with)
+
+</details>
+
+## Description
+
+I created this porfolio page in order to share my skills, work, and creativity. 
+
+## Website
+
+[View Live Site](https://andersonjaz.github.io/Lauras-portfolio/)
+
+## Built With
+
+![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
+![css](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30)
+![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30)
+![react](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
