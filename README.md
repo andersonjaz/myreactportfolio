@@ -22,7 +22,7 @@ I created this porfolio page in order to share my skills, work, and creativity.
 
 ## Website
 
-[View Live Site](https://andersonjaz.github.io/Lauras-portfolio/)
+[View Live Site](https://andersonjaz.github.io/myreactportfolio/)
 
 ## Built With
 
