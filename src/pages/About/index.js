@@ -7,7 +7,7 @@ function About() {
         { title: "San Diego", subtitle: "Based in California" },
         { title: "Experience", subtitle: "Front/Back End Development and Marketing"},
     ];
-    const quickSkills = ["Git", "HTML + CSS", "JavaScript + jQuery", "Node.js", "Marketing", "...And More!"];
+    const quickSkills = ["Git", "HTML + CSS", "JavaScript + jQuery", "Node.Js", "React.Js", "...And More!"];
     return(
         <section id="about" className="about-me">
             <div className="quick-info">

@@ -29,11 +29,10 @@ function Header({ pages }) {
             ))}</div>
             {/* Site Title */}
             <div className="title">
-                <h1>{window.location.pathname === "/" ?
+                <h1>
+                {window.location.pathname === "/" ?
                     "My Portfolio" :
-                    <NavLink to="myreactportfolio/">Welcome To My Portfolio</NavLink>}
-                </h1>
-                <h2>
+                    <NavLink to="myreactportfolio/">
                     <Typewriter 
                         options={{
                             autoStart: true,
@@ -49,7 +48,8 @@ function Header({ pages }) {
                                 .start();
                         }}
                     />
-                </h2>
+                    </NavLink>}
+                </h1>
             </div>
             {/* Site Navigation */}
             <Navigation pages={pages} />
