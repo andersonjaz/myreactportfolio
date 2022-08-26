@@ -24,6 +24,10 @@ I created this porfolio page in order to share my skills, work, and creativity.
 
 [View Live Site](https://andersonjaz.github.io/myreactportfolio/)
 
+## Screenshot
+![portfolio-homepage](https://user-images.githubusercontent.com/91381863/186791166-772b1c57-67e4-4cbf-a4c3-431f4fd37c00.jpg)
+
+
 ## Built With
 
 ![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
