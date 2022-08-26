@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# My React Portfolio 
+
+This portfolio was created using, css, react.js, javascript, and html. Please keep checking back for updates.
+
+## Deployed Site
+https://andersonjaz.github.io/myreactportfolio/
+
+## Portfolio Screenshot
+
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/91381863/186790772-2551183c-f355-4847-bb42-0960333e3835.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
