@@ -25,7 +25,8 @@ I created this porfolio page in order to share my skills, work, and creativity.
 [View Live Site](https://andersonjaz.github.io/myreactportfolio/)
 
 ## Screenshot
-![portfolio-homepage](https://user-images.githubusercontent.com/91381863/186791166-772b1c57-67e4-4cbf-a4c3-431f4fd37c00.jpg)
+![portfolio-homepage](https://user-images.githubusercontent.com/91381863/186823597-002db22e-fbb3-47e2-8231-525f3e7b2f6b.jpg)
+
 
 
 ## Built With
