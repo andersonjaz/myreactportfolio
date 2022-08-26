@@ -3,8 +3,8 @@ export const projectInfo = [
         title: 'Horiseon',
         technologies: ["Html", "CSS", "Bootstrap"],
         thumbnail: '/image6.jpg',
-        repo: 'https://github.com/andersonjaz/Team-Profile-Gen/',
-        url: 'https://andersonjaz.github.io/Team-Profile-Gen/'
+        repo: 'https://github.com/andersonjaz/Horiseon/',
+        url: 'https://andersonjaz.github.io/Horiseon/'
     },
     {
         title: 'Password Generator',
