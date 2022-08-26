@@ -42,7 +42,7 @@ function Header({ pages }) {
                             typewriter.typeString('Web Developer')
                                 .pauseFor(3000)
                                 .deleteAll()
-                                .typeString('Laura Anderson')
+                                .typeString('Laura J. Anderson')
                                 .pauseFor(3000)
                                 .deleteAll()
                                 .start();
