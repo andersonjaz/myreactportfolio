@@ -1,4 +1,40 @@
-# Getting Started with Create React App
+# My-Portfolio
+
+Welcome to my portfolio. Please keep checking back for updates.
+
+## Table of Contents
+
+<details>
+
+  <summary>Contents</summary>
+  
+1.  [Description](#description)
+
+1.  [Website](#website)
+
+1.  [Built With](#built-with)
+
+</details>
+
+## Description
+
+I created this porfolio page in order to share my skills, work, and creativity. 
+
+## Website
+
+[View Live Site](https://andersonjaz.github.io/myreactportfolio/)
+
+## Screenshot
+![portfolio-homepage](https://user-images.githubusercontent.com/91381863/186791166-772b1c57-67e4-4cbf-a4c3-431f4fd37c00.jpg)
+
+
+## Built With
+
+![html](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&logoWidth=30)
+![css](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&logoWidth=30)
+![js](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&logoWidth=30)
+![react](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
