@@ -33,5 +33,12 @@ export const projectInfo = [
         thumbnail: '/image2.jpg',
         repo: 'https://github.com/andersonjaz/ARC-Website',
         url: 'https://andersonjaz.github.io/ARC-Website/'
+    },
+    {
+        title: 'Game-Quest',
+        technologies: ["Html", "CSS", "Bootstrap", "React", "GraphQl", "MERN"],
+        thumbnail: '/image7.jpg',
+        repo: 'https://github.com/El-Mariachi760/game-quest',
+        url: 'https://game-quest-v01.herokuapp.com/'
     }
 ];
